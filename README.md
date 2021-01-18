@@ -46,4 +46,11 @@ bash scripts/search_text.sh sst2
 ```
 
 ### Citation
-TBC
+@inproceedings{
+cheung2021modals,
+title={{\{}MODALS{\}}: Modality-agnostic Automated Data Augmentation in the Latent Space},
+author={Tsz-Him Cheung and Dit-Yan Yeung},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=XjYgR6gbCEc}
+}
