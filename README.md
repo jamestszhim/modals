@@ -46,6 +46,9 @@ bash scripts/search_text.sh sst2
 ```
 
 ### Citation
+If you use MODALS in your research, please cite:
+
+```
 @inproceedings{
 cheung2021modals,
 title={{\{}MODALS{\}}: Modality-agnostic Automated Data Augmentation in the Latent Space},
@@ -54,3 +57,4 @@ booktitle={International Conference on Learning Representations},
 year={2021},
 url={https://openreview.net/forum?id=XjYgR6gbCEc}
 }
+```
